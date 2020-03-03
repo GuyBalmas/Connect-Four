@@ -1,0 +1,9 @@
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\bin\Release\ConnectFour.exe.config
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\bin\Release\ConnectFour.exe
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\bin\Release\ConnectFour.pdb
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.csprojAssemblyReference.cache
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.Properties.Resources.resources
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.UI.GameForm.resources
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.csproj.GenerateResource.cache
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.exe
+C:\Users\Guy\source\repos\ConnectFour\ConnectFour\obj\Release\ConnectFour.pdb
